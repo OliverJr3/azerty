@@ -1,0 +1,41 @@
+body{
+    background-color: blue;
+}
+section{
+    border-radius: 1%;
+    margin-top: 5%;
+    display: flex;
+    background-color: rgb(215, 215, 215);
+}
+.div1{
+}
+.logo{
+    margin-top: 5%;
+    text-align: center;
+    width: 60%;
+}
+.photo{
+    border: solid 6px rgb(2, 2, 144) ;
+    border-radius: 10%;
+    width: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div2{
+
+    background-position-x: right;
+    background-size: 50%;
+    background-image: url(ballon.png);
+    background-repeat: no-repeat;
+    padding: 2%;
+
+}
+.info span h2{
+    margin-top: 5%;
+    padding: 1%;
+    color: white;
+    background-color: rgb(2, 2, 144)  ;
+}
+.card-title{
+    color: rgb(2, 2, 144) ;
+}
